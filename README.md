@@ -69,7 +69,7 @@
           </div>
         </div>
         <div class="carousel-item">
-          <img src="C:\Users\Amir\Desktop\techie web\pho1.png" class="d-block w-100" alt="...">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUXq4D0PU4QhcUpT-wf9sXw3NKK2mEsQmDgA&usqp=CAU" class="d-block w-100" alt="...">
           <div class="carousel-caption  d-md-block">
             <h5>Backend Development</h5>
             
