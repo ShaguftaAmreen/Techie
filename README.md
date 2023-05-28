@@ -62,14 +62,14 @@
       </div>
       <div class="carousel-inner">
         <div class="carousel-item active " id="home1">
-          <img src=""https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToIMmdcenFPyHjb1i4y1gjm4ZCQ-e3SFpusw&usqp=CAU alt="..." >
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToIMmdcenFPyHjb1i4y1gjm4ZCQ-e3SFpusw&usqp=CAU" alt="..." >
           <div class="carousel-caption  d-md-block">
             <h5>Frontend Development</h5>
             
           </div>
         </div>
         <div class="carousel-item">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUXq4D0PU4QhcUpT-wf9sXw3NKK2mEsQmDgA&usqp=CAU alt="...">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUXq4D0PU4QhcUpT-wf9sXw3NKK2mEsQmDgA&usqp=CAU" alt="...">
           <div class="carousel-caption  d-md-block">
             <h5>Backend Development</h5>
             
