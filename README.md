@@ -62,21 +62,21 @@
       </div>
       <div class="carousel-inner">
         <div class="carousel-item active " id="home1">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9oneiE0ukrHclVDX21DctU9Op1_J4nMi-RQ&usqp=CAU" alt="..." >
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9oneiE0ukrHclVDX21DctU9Op1_J4nMi-RQ&usqp=CAU" class="d-block w-100" alt="..." >
           <div class="carousel-caption  d-md-block">
             <h5>Frontend Development</h5>
             
           </div>
         </div>
         <div class="carousel-item">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUXq4D0PU4QhcUpT-wf9sXw3NKK2mEsQmDgA&usqp=CAU" alt="...">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUXq4D0PU4QhcUpT-wf9sXw3NKK2mEsQmDgA&usqp=CAU" class="d-block w-100" alt="...">
           <div class="carousel-caption  d-md-block">
             <h5>Backend Development</h5>
             
           </div>
         </div>
         <div class="carousel-item">
-          <img src="C:\Users\Amir\Desktop\techie web\pho4.jpg" class="d-block w-100" alt="..." >
+          <img src="" class="d-block w-100" alt="..." >
           <div class="carousel-caption  d-md-block">
             <h5>Full Stack Development</h5>
            
