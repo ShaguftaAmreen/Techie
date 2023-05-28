@@ -62,7 +62,7 @@
       </div>
       <div class="carousel-inner">
         <div class="carousel-item active " id="home1">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhfyxhAxrBW0tEaozurzT7ahShimdsIgeydQ&usqp=CAU" class="d-block w-100" alt="..." style="width:100%" >
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhfyxhAxrBW0tEaozurzT7ahShimdsIgeydQ&usqp=CAU" class="d-block w-100" alt="....." style="width:100%" >
           <div class="carousel-caption  d-md-block">
             <h5>Frontend Development</h5>
             
