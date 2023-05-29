@@ -239,7 +239,7 @@
     </div></div>
     <div class="col"><div class="card">
       <div class="card-body">
-        <img src="C:\Users\Amir\Desktop\techie web\sir3.jpg" style="height:195px;"alt=" data-aos="flip-left" data-aos-offset="200" class="img-fluid rounded-circle border border-primary">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSSAq1n5MDirMj60xlM8LWD5VVP9l-Zyn2Vg&usqp=CAU" style="height:195px;"alt=" data-aos="flip-left" data-aos-offset="200" class="img-fluid rounded-circle border border-primary">
         <h5 class="card-title">Karan Malhotra</h5>
         <p class="card-text"></p>
         <a href="#" class="btn btn-primary">Book now!</a>
