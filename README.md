@@ -69,14 +69,14 @@
           </div>
         </div>
         <div class="carousel-item">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUXq4D0PU4QhcUpT-wf9sXw3NKK2mEsQmDgA&usqp=CAU" class="d-block w-100" alt="..."style="width:100%">
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUXq4D0PU4QhcUpT-wf9sXw3NKK2mEsQmDgA&usqp=CAU class="d-block w-100" alt="..."style="width:100%">
           <div class="carousel-caption  d-md-block">
             <h5>Backend Development</h5>
             
           </div>
         </div>
         <div class="carousel-item">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9oneiE0ukrHclVDX21DctU9Op1_J4nMi-RQ&usqp=CAU" class="d-block w-100" alt="..."style="width:100%" >
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9oneiE0ukrHclVDX21DctU9Op1_J4nMi-RQ&usqp=CAU class="d-block w-100" alt="..."style="width:100%" >
           <div class="carousel-caption  d-md-block">
             <h5>Full Stack Development</h5>
            
