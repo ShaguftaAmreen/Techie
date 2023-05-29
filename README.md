@@ -68,20 +68,8 @@
             
           </div>
         </div>
-        <div class="carousel-item">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRg0M2wGAPy1QMnUp-X3Vs0DpZXseJWbhdIgw&usqp=CAU" class="d-block w-100" alt="..."style="width:100%">
-          <div class="carousel-caption  d-md-block">
-            <h5>Backend Development</h5>
-            
-          </div>
-        </div>
-        <div class="carousel-item">
-          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV_p3jI0HLwsh0dQIQAdvdrD9A_KcCyKfCxg&usqp=CAU" class="d-block w-100" alt="..."style="width:100%" >
-          <div class="carousel-caption  d-md-block">
-            <h5>Full Stack Development</h5>
-           
-          </div>
-        </div>
+        
+       
       </div>
       <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
