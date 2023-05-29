@@ -284,8 +284,8 @@
       <div class="col-sm-12 col-md-6 col-lg-6 col-12">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjwqW3qEpxuwIWVSD-tP2J3wkNHf7ZIqBaHw&usqp=CAU" alt="" class="img-fluid text-start">
       </div>
-    </div>
-  </section>
+    
+  
   <div class="container text-center mt-4" id="reach">
     <div>
       <h1 data-aos="fade-left" data-aos-offset="200"><pre>
