@@ -228,7 +228,7 @@
     </div>
   </div>
 </div>
-  </section>
+  
   
   <section class="contact mt-4 text-center mb-5" id="contact1">
     <div class="container text-center">
@@ -237,7 +237,7 @@
       </pre>
        <i> Contact<span class="text-primary">Us</span></i>
       </h1>
-      <hr /  class="w-25 m-auto">
+     
     </div>
     <div class="row mt-4">
       <div class="col-sm-12 col-md-6 col-lg-6 col-12"><form class="row g-3">
