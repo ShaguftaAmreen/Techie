@@ -1,4 +1,4 @@
-<!doctype html>
+
 <html lang="en">
   <head>
     <!-- Required meta tags -->
@@ -15,7 +15,7 @@
   </head>
   <body>
     
-    <header>
+    
     <nav class="navbar navbar-expand-lg navbar-light bg-white border-bottom px-2 fixed-top" style="position: fixed;" >
         <div class="container-fluid">
           <a class="navbar-brand" href="#">Techie- <span class="text-primary fs-3">WeB</span></a>
@@ -53,7 +53,7 @@
           </div>
         </div>
       </nav>
-    </header>
+   
     <div id="carouselExampleCaptions " class="carousel slide" data-bs-ride="carousel">
       <div class="carousel-indicators">
         <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -88,7 +88,7 @@
         </pre>
         <i>  About <span class="text-primary">me</span> </i>
         </h1>
-        <hr / class="w-25 m-auto">
+        
       </div>
       <div class="row">
         
@@ -155,7 +155,7 @@
        </pre>
          <i> Our<span class="text-primary">Services</span> </i>
         </h1>
-        <hr /  class="w-25 m-auto">
+        
       </div>
       <div class="row mt-4">
         <div class="col-sm-12 col-lg-4 col-md-4 col-12"><div class="card">
@@ -206,7 +206,7 @@
  </pre>
      <i> Our<span class="text-primary">Team</span> </i>
     </h1>
-    <hr /  class="w-25 m-auto">
+    
   </div>
   <div class="row mt-4">
     <div class="col"><div class="card">
@@ -292,7 +292,7 @@
       </pre>
        <i> Reach<span class="text-primary">Us</span></i>
       </h1>
-      <hr /  class="w-25 m-auto">
+      
     </div>
     <div class="row mt-4">
       <div class="col-sm-12 col-lg-6 col-md-6 col-12">
@@ -327,5 +327,4 @@
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
     -->
-  </body>
-</html>
+ 
