@@ -231,7 +231,7 @@
     </div></div>
     <div class="col"><div class="card">
       <div class="card-body">
-        <img src="C:\Users\Amir\Desktop\techie web\sir2.jpg"  class="img-fluid rounded-circle border border-primary">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnL8kCpglWWk-nPsPh3-vREOB-Z8HnOuQ4eg&usqp=CAU"  class="img-fluid rounded-circle border border-primary">
         <h5 class="card-title">Nakshatra Reddy</h5>
         <p class="card-text"></p>
         <a href="#" class="btn btn-primary">Book now!</a>
